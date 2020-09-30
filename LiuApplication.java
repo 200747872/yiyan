@@ -9,6 +9,7 @@ import org.springframework.boot.web.servlet.support.SpringBootServletInitializer
 public class LiuApplication extends SpringBootServletInitializer  {
     public static void main(String[] args) {
         SpringApplication.run(LiuApplication.class);
+		//11111111111111111111111111111111111111111111111111111111
     }
 
     @Override
