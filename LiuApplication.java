@@ -14,6 +14,7 @@ public class LiuApplication extends SpringBootServletInitializer  {
 
     @Override
     protected SpringApplicationBuilder configure(SpringApplicationBuilder builder) {
+		//2222222222222222222222222222222222
         return super.configure(builder).sources(LiuApplication.class);
     }
 }
